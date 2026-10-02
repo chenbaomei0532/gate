@@ -459,6 +459,7 @@ def build_chains_text(data):
 EDGE_HOSTS = [
     h.strip()
     for h in os.environ.get(
+        "form.assaabloy.com:443,mvnrepository.com:443,a.pub.network:443,noc.one:443,www.canadatype.com:443,www.doiting.com:443,uptimerobot.com:443,db-ip.com:443,9mod.com:443,support.communilink.net:443,kwiat.com:443,ali.nonull.pp.ua:443,ping.pe:443,aandd.co.jp:443,cdn.2x.nz:443,ip.sb:443,ncc.gov.ng:443,www.redboxtools.com:443,www.dwk.com:443,oxylabs.io:443,s.ee:443,dogechain.info:443,builtbybuffalo.com:443,www.oopt.eu.cc:443,zen-browser.app:443,crinacle.com:443,worldvectorlogo.com:443,so.360832.xyz:443,example.com:443",
         "EDGE_HOSTS",
         "www.5199dy.com:443,hzytjy.cn:443,ali.nonull.pp.ua:443,auto.dolby.dpdns.org:443,"
         "cdn.cnno.de:443,saas.sin.fan:443,cf.1o.ee:443",
